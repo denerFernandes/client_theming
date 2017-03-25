@@ -50,7 +50,7 @@ public:
     }
 
     QString updateCheckUrl() const {
-        return QLatin1String("https://updates.nextcloud.org/client/");
+        return QLatin1String("https://updates.nuvim.com.br/client/");
     }
 
     QString helpUrl() const {
